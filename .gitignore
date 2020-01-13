@@ -1,0 +1,5 @@
+testConsole/**
+Report/**
+TrafficManager/**/Debug
+TrafficManager/**/Release
+**/.vs/**

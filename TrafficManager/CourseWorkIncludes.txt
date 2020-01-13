@@ -1,0 +1,6 @@
+Ws2_32.lib; - for ntohs()
+wpcap.lib; - for pcap_functions()
+Comctl32.lib; - for InitCommonControlsEx()
+Iphlpapi.dll - for GetExtendedUdpTable()
+
+DELAYED LAUNCH DLL - wpcap.dll
